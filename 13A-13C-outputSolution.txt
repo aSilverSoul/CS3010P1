@@ -1,0 +1,34 @@
+13a OUTPUT:
+
+"C:\Program Files\Java\jdk-9.0.4\bin\java" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2017.3.3\lib\idea_rt.jar=49746:C:\Program Files\JetBrains\IntelliJ IDEA 2017.3.3\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\garym\IdeaProjects\CS3010P1\out\production\CS3010P1 Main
+Enter the number of variables in the equation:
+3
+Enter the matrix:
+3 4 3
+1 5 -1
+6 3 7
+enter the right side of the equations
+10 7 15
+2.0
+1.0
+0.0
+
+Process finished with exit code 0
+
+13C OUTPUT:
+C:\Program Files\Java\jdk-9.0.4\bin\java" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2017.3.3\lib\idea_rt.jar=49887:C:\Program Files\JetBrains\IntelliJ IDEA 2017.3.3\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\garym\IdeaProjects\CS3010P1\out\production\CS3010P1 Main
+Enter the number of variables in the equation:
+4
+Enter the matrix:
+1 -1 2 1
+3 2 1 4
+5 8 6 3
+4 2 5 3
+enter the right side of the equations
+1 1 1 -1
+-7.233333333333323
+1.1333333333333315
+2.433333333333331
+4.499999999999994
+
+Process finished with exit code 0
